@@ -8,7 +8,7 @@ import android.widget.Button;
 public class MainActivity extends AppCompatActivity
 {
     private Button btn_cature;
-    private  int a,b,c;
+    private  int a,b,c,d,t;
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
