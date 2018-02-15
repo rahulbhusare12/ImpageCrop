@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity
                 c=a+c;
                 c=a-b;
                 c=d+t;
+                d=a+a+b;
             
         
             }
